@@ -15,5 +15,7 @@ This is a terminal-based trivia application built to master Object-Oriented Prog
 ## How to Run
 
 Clone the repository.
+
 Install dependencies: pip install requests
+
 Run the game: python main.py
